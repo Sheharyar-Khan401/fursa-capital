@@ -1,0 +1,29 @@
+.custom-icon {
+    position: absolute;
+    right: 3%;
+  }
+  
+  .custom-icon-right {
+    position: absolute;
+    top: 50%;
+    right: 12%;
+    transform: translate(0%, -50%);
+  }
+  
+  .custom-icon-error {
+    position: absolute;
+    top: 20%;
+    right: 3%;
+  }
+  
+  .custom-icon-left {
+    position: absolute;
+    top: 50%;
+    left: 12px;
+    transform: translate(-10%, -50%);
+  }
+  
+  .react-datepicker-wrapper {
+    width: 100%;
+  }
+  

@@ -1,0 +1,12 @@
+.inputFocus:focus {
+  border: 1px solid #58b5ac;
+  box-shadow: 0px 0px 0px 4px #58b5ac
+}
+
+.custom-icon {
+  position: absolute;
+  top: 50%;
+  right: 2%;
+  transform: translate(-10%, -50%);
+}
+

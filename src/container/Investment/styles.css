@@ -1,0 +1,3 @@
+.customFooter :where(.css-dev-only-do-not-override-1rqnfsa).ant-list .ant-list-footer{
+    background-color: #f2f2f2 !important;
+}

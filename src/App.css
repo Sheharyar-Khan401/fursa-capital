@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* #dealmakerscript * { all: unset !important; } */
+.header__register-link{
+display: none !important;
+}
